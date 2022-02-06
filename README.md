@@ -1,8 +1,8 @@
 ### Hi there 👋 Riya Mudgal
 
- **Currently pursuing: Masters of Computer Applications*, *From, **KIET Group of Institution*, *Ghaziabad.
-- 🌱 **Currently learning:* *C++ and Python.
-- 💬 **Ask me about:* *C, C++, Python, HTML, CSS, JavaScript
+ ### *Currently pursuing: Masters of Computer Applications*, *From, *KIET Group of Institution*, *Ghaziabad.
+### - 🌱 *Currently learning:* *C++ and Python.
+### - 💬 *Ask me about:* *C, C++, Python, HTML, CSS, JavaScript
 
 ## :satellite: How to reach me:-
 - :e-mail: **E-mail:* *riyamudgal21@gmail.com
