@@ -1,11 +1,13 @@
-### Hi there 👋 Riya Mudgal
+### Hi there 👋 Riya Mudgal :girl:
 
- #### *Currently pursuing: Masters of Computer Applications*, *From, KIET Group of Institution, Ghaziabad*.
-#### - 🌱 *Currently learning:* *C++ and Python*
-#### - 💬 *Ask me about:* *C, C++, Python, HTML, CSS, JavaScript*
+
+![](https://komarev.com/ghpvc/?username=riyamudgal&color=yellow)
+#### - 🎓 *Currently pursuing: Master of Computer Applications*, *From KIET Group of Institutions, Ghaziabad*
+#### - 🌱 *Currently learning:* *Python and Javascript*
+#### - 💬 *Ask me about:* *C++, Python, HTML, CSS, Javascript, SQl*
 
 #### :satellite: How to reach me:-
-- :e-mail: **E-mail:* *riyamudgal21@gmail.com
+- :e-mail: *E-mail:* *riyamudgal21@gmail.com*
 
 #
 
