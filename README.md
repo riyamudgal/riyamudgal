@@ -3,7 +3,7 @@
 
 ### Hi there 👋, Riya Mudgal here :girl:
 #### - 🎓 *Currently pursuing: Master of Computer Applications*, *from KIET Group of Institutions, Ghaziabad*
-#### - 🌱 *Currently learning:* *Python and Javascript*
+#### - 🌱 *Currently learning:* *Javascript and C#*
 #### - 💬 *Ask me about:* *C++, Python, HTML, CSS, Javascript, SQl*
 
 #
