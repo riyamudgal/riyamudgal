@@ -3,7 +3,7 @@
 
 ### Hi there 👋, Riya Mudgal here :girl:
 #### - 🎓 *Post Graduated: Master of Computer Applications*, *from KIET Group of Institutions, Ghaziabad*
-#### - 🌱 *Currently:* *Wporking Professional*
+#### - 🌱 *Currently:* *Working Professional*
 #### - 💬 *Ask me about:* *C++, Python, HTML, CSS, Javascript, SQl, AWS*
 
 #
