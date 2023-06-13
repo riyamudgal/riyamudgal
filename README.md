@@ -2,9 +2,9 @@
 #
 
 ### Hi there 👋, Riya Mudgal here :girl:
-#### - 🎓 *Currently pursuing: Master of Computer Applications*, *from KIET Group of Institutions, Ghaziabad*
-#### - 🌱 *Currently learning:* *Javascript and C#*
-#### - 💬 *Ask me about:* *C++, Python, HTML, CSS, Javascript, SQl*
+#### - 🎓 *Post Graduated: Master of Computer Applications*, *from KIET Group of Institutions, Ghaziabad*
+#### - 🌱 *Currently:* *Wporking Professional*
+#### - 💬 *Ask me about:* *C++, Python, HTML, CSS, Javascript, SQl, AWS*
 
 #
 #### :satellite: How to reach me:-
